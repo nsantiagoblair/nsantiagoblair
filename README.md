@@ -22,7 +22,9 @@ Frontend: Reac Nativet, Next.js (for side projects)
 
 - 🧙‍♂️ **Dungeon Master AI** — a custom LLM that reads books and runs TTRPG sessions  
 - 🔍 **RAG Playground** — building out fast LLM prototypes with Supabase and AI SDK  
-- 🎸 Low-key guitarist — mostly riffs, sometimes code-inspired jams  
+- 🎸 **Guitar side-quester** — shredding riffs between data pipelines and sometimes coding solos that only my compiler hears
+
+
 
 ## 📫 Contact
 
