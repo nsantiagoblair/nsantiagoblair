@@ -4,7 +4,7 @@ I'm a backend and data engineer working in fintech, based in Guildford, UK. I've
 
 ## 💼 What I Do
 
-- 🧱 Design and build backend services (Go) and data systems (Python), mostly on AWS
+- 🧱 Design and build backend services and data systems, mostly on AWS
 - ⚡ Work with large-scale batch and streaming data using PySpark and Iceberg
 - 🗄️ Wrangle data across SQL in all its flavours, from transactional databases to the data warehouse
 - 🛠️ Define infrastructure as code with Terraform
