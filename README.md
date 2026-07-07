@@ -2,6 +2,13 @@
 
 I'm a backend and data engineer working in fintech, based in Guildford, UK. I've spent my career on both sides of the stack — building backend services and data systems — and I care a lot about doing engineering well, whatever the layer.
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/nsantiagoblair/nsantiagoblair/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## 💼 What I Do
 
 - 🧱 Design and build backend services and data systems, mostly on AWS
